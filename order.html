@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" class="bgimg">
+<head>
+    <meta charset="UTF-8">
+    <link href="static/style.css" rel="stylesheet" />
+    <title>Add order</title>
+</head>
+
+<header class="site-header">
+  <div class="site-identity">
+    <h1><a href="http://127.0.0.1:5000/">TasteIt!</a></h1>
+  </div>
+  <nav class="site-navigation">
+    <ul class="nav">
+      <li><a href="http://127.0.0.1:5000/about">About</a></li>
+      <li><a href="http://127.0.0.1:5000/contact">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+<body>
+<form id="order-form" method="post" class="p-5 bg-light" action="order">
+  <input type="date" name="date" placeholder="date" class="date">
+  <input type="time" name="time" placeholder="time" class="time">
+  <input type="text" name="food" placeholder="food" class="food">
+  <input type="submit" value="Add" class="add">
+</form>
+</body>
+<footer class="footorder">
+  <h2>Thanks for ordering</h2>
+</footer>
+</html>
