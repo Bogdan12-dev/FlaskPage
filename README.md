@@ -1,1 +1,1 @@
-https://www.canva.com/design/DAFyT6-B--Y/js_ku3zcSIvTVqibfDb8dQ/edit?utm_content=DAFyT6-B--Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Cell food TM enhances endothelial cells' respiratory metabolism and reduces the production of reactive oxygen species (ros) brought on by hypoxia.
