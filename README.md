@@ -1,1 +1,1 @@
-https://docs.google.com/drawings/d/1cNPoQCB4aglCKxRZxTHNT32447_Vd48tKWvyUIWaeBo/edit
+Judson appears as ruthless, uncompromising and determined to have things done only his way. Presentation of how he is protecting his property shows us that he can do literally everything so his property will be untouched. That causes lack of empathy and consideration for others.
