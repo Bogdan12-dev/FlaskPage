@@ -1,5 +1,15 @@
-5.Purpose of author is to give an example of what is she talking about, provide a base for her argument, and make it easy for reader to understand the subject that she is talkign aboout.
-6. Turkle views the practice of using technology to protect chosen selves as a double-edged sword - it's empowering but can lead to superficial relationships and distance from our authentic selves.
-7.Professor Turkle of online connection is a metaphor that descriibes the little piecces of conversation that we are having by using devices.
-8. Effect that author wants to create is to make people seriously think about fact that people prefer to speak and consult with robots, instead of getting professional help from people who had similar situation and have academic preparation to offer help.
-9.Usage of phrase "partisan for conversation" shows us that author supports face-to-face conversations, it shows her dedication to real conversation and shows her role as a supporter of it.
+In today's digital era, social media proves essential for disabled individuals, offering accessibility and fostering connections.
+
+Accessible Communication: Text-based communication accommodates various disabilities, aiding those with hearing impairments or speech difficulties.
+
+Meeting People: Social media connects disabled individuals facing similar challenges, fostering meaningful connections regardless of geographical boundaries.
+
+Socialization Without Leaving Home: For those facing health-related limitations, social media becomes a lifeline, enabling online friendships and group activities.
+
+Educating About Disability: Disabled individuals leverage social media to challenge stereotypes, educating the public through blogs, videos, and podcasts.
+
+Business Promotion: Social media serves as an accessible and efficient marketing tool for disabled entrepreneurs, reaching wider audiences.
+
+Counterargument: Addressing concerns about reduced sociability, online interactions can be as genuine and meaningful as in-person ones, providing a safe space for controlled social engagement.
+
+Conclusion: Social media's inclusive potential empowers disabled individuals, breaking barriers and fostering connections in our digital landscape.
