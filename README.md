@@ -1,5 +1,5 @@
 In today's digital era, social media proves essential for disabled individuals, offering accessibility and fostering connections.
-
+https://www.canva.com/design/DAF85t7RiYY/QVeExW1wE2VrdWVFUqwbTg/edit?utm_content=DAF85t7RiYY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 Accessible Communication: Text-based communication accommodates various disabilities, aiding those with hearing impairments or speech difficulties.
 
 Meeting People: Social media connects disabled individuals facing similar challenges, fostering meaningful connections regardless of geographical boundaries.
