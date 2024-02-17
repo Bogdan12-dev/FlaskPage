@@ -1,4 +1,4 @@
-In today's digital era, social media proves essential for disabled individuals, offering accessibility and fostering connections.
+[In today's digital era, social media proves essential for disabled individuals, offering accessibility and fostering connections.
 https://www.canva.com/design/DAF85t7RiYY/QVeExW1wE2VrdWVFUqwbTg/edit?utm_content=DAF85t7RiYY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 Accessible Communication: Text-based communication accommodates various disabilities, aiding those with hearing impairments or speech difficulties.
 
@@ -13,3 +13,4 @@ Business Promotion: Social media serves as an accessible and efficient marketing
 Counterargument: Addressing concerns about reduced sociability, online interactions can be as genuine and meaningful as in-person ones, providing a safe space for controlled social engagement.
 
 Conclusion: Social media's inclusive potential empowers disabled individuals, breaking barriers and fostering connections in our digital landscape.
+](https://docs.google.com/document/d/10ZyZyZyxMuLsS22dQl5mX9ltiIpO9ibwylH7EYCA7lE/edit?usp=sharing)https://docs.google.com/document/d/10ZyZyZyxMuLsS22dQl5mX9ltiIpO9ibwylH7EYCA7lE/edit?usp=sharing
